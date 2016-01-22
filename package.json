@@ -1,5 +1,5 @@
 {
-  "name": "atom-fold-search-results",
+  "name": "fold-search-results",
   "main": "./lib/atom-fold-search-results.js",
   "version": "0.0.0",
   "description": "Collapse all search results",
