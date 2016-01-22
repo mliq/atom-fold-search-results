@@ -1,3 +1,6 @@
+## 1.0.2
+Fixed an error when closing a Markdown preview tab
+
 ## 1.0.1
 Fixed an error when no tabs are open or when opening a Markdown preview tab.
 
