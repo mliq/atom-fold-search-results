@@ -1,0 +1,21 @@
+'context-menu':
+  '.preview-pane': [
+    {
+      'label': 'Toggle fold results'
+      'command': 'fold-search-results:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Fold search results'
+      'submenu': [
+        {
+          'label': 'Toggle fold'
+          'command': 'fold-search-results:toggle'
+        }
+      ]
+    ]
+  }
+]
