@@ -1,3 +1,8 @@
+## 1.0.4
+Uses the find-and-replace package API
+Fixes the twice-click bug when trying to unfold results via the context menu
+Package is no longer activated on startup
+
 ## 1.0.3
 Improves results view detection
 Fixes a bug when closing the search tab then making a new search
