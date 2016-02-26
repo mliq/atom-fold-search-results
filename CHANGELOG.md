@@ -1,3 +1,6 @@
+## 1.0.5
+Fixes [issue #2](https://github.com/whoisthecoon/atom-fold-search-results/issues/2).
+
 ## 1.0.4
 Uses the find-and-replace package API
 Fixes the twice-click bug when trying to unfold results via the context menu
